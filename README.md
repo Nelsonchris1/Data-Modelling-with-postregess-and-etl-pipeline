@@ -13,9 +13,9 @@ Sparkify would like a data engineer to create a Postgres database with tables de
 
 In this project implemented the start Schema for creating the database with Fact and Dimension table
 1. Fact table : songplays
-
 2 Dimension table: users, artists, song, time
-<img src="start_schema_photo.jpg" alt="drawing" width="400"/>
+
+<img src="star_schema_photo.jpg" alt="drawing" width="400"/>
 
 ### Project structure
 1. test.ipynb displays the first few rows of each table to let you check your database.
